@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif" alt="Taylor Dawson Banner" width="680">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif" alt="Taylor Dawson Banner" width="900">
 
 </div>
 <div align="center">
