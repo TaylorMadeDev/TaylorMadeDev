@@ -1,25 +1,337 @@
-![Hello :)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif)
+![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif)
 
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on triton client<br>👯 I’m looking to collaborate on making minecraft clients<br>🌱 I’m currently learning java<br>💬 Ask me about my pentesting journey<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+immersive+games+and+powerful+software;Full-stack+engineering+with+a+product+mindset;Turning+ambitious+ideas+into+real+systems;Working+towards+my+own+indie+game+studio)](https://git.io/typing-svg)
 
+<br>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Html9](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Dancer](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![FIGMA](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pythorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Scrape](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TaylorMadeDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TaylorMadeDev&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorMadeDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Bachelor's Degree](https://img.shields.io/badge/Bachelor's-Game_Development-6D28D9?style=flat-square&logo=academia&logoColor=white)
+![T Level](https://img.shields.io/badge/T_Level-Computer_Science-4F46E5?style=flat-square&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Manchester-United_Kingdom-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TaylorMadeDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-TaylorDawson.Me-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TaylorDawson.Me)
+[![Contact](https://img.shields.io/badge/CONTACT-ME-4F46E5?style=for-the-badge&logo=minutemailer&logoColor=white)](https://TaylorDawson.Me/#contact)
+[![GitHub](https://img.shields.io/badge/GITHUB-TaylorMadeDev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaylorMadeDev)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TaylorMadeDev&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TaylorMadeDev&label=PROFILE+VIEWS&color=6d28d9&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/TaylorMadeDev?label=FOLLOWERS&style=flat-square&color=4f46e5&logo=github)](https://github.com/TaylorMadeDev?tab=followers)
+[![Stars](https://img.shields.io/github/stars/TaylorMadeDev?affiliations=OWNER&label=STARS&style=flat-square&color=7c3aed&logo=github)](https://github.com/TaylorMadeDev?tab=repositories)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TaylorMadeDev&icon=10&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I am **Taylor Dawson**, a Manchester-based **Game Developer and Software Developer** focused on building interactive products, scalable applications, development tools, and immersive game experiences.
+
+My work spans game systems, full-stack applications, backend services, user interfaces, automation, and security-conscious software engineering. I enjoy solving problems across the entire product lifecycle—from architecture and implementation to refinement, deployment, and user experience.
+
+Alongside professional software development, I am working toward establishing my own independent game studio. I bring a product-engineering mindset to every project: understand the user, design the right system, ship a reliable solution, and continuously improve it.
+
+My background in cybersecurity and red-team principles also influences how I build software. I value secure architecture, deliberate access control, dependable systems, and practical threat awareness.
+
+### Open To
+
+- Game development and gameplay engineering opportunities
+- Full-stack and software engineering roles
+- Product-focused engineering teams
+- Open-source collaboration
+- Indie game and developer-tool partnerships
+- Technically ambitious projects with real user impact
+
+---
+
+## Tech Stack
+
+### Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,python,lua,cpp,php,html,css&theme=dark&perline=10)](https://skillicons.dev)
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+[![Frontend](https://skillicons.dev/icons?i=react,redux,electron,vite,html,css,js,ts,figma,photoshop&theme=dark&perline=10)](https://skillicons.dev)
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,mysql,mongodb,sqlite&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+### Game Development
+
+<div align="center">
+
+[![Game Development](https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp,lua&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+### Cloud, DevOps & Tooling
+
+<div align="center">
+
+[![Tooling](https://skillicons.dev/icons?i=git,github,gradle,npm,postman,linux,raspberrypi,vscode,visualstudio&theme=dark&perline=9)](https://skillicons.dev)
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Applied AI Development | Working knowledge | Integrating AI-assisted workflows and intelligent features into practical software products |
+| Machine Learning Foundations | Working knowledge | Understanding model development, training workflows, evaluation, and applied ML concepts |
+| Neural Network Tooling | Familiar | Experience with the Python AI ecosystem, including PyTorch and TensorFlow tooling |
+| Data Processing | Proficient | Preparing, transforming, and analysing data with Python, Pandas, and NumPy |
+| AI-Assisted Engineering | Proficient | Using modern AI development tools to accelerate research, implementation, debugging, and iteration |
+| Intelligent Game Systems | Developing | Exploring AI-driven behaviours, procedural systems, automation, and smarter game interactions |
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><strong>Shulkr Client — Minecraft Scripting Platform</strong></summary>
+
+<br>
+
+Shulkr Client is a Fabric and ModernUI development platform built around Minescript, supported by a standalone Express backend and browser-based client.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Java, Fabric, ModernUI, Minescript, Express, JavaScript, HTML, CSS, Gradle |
+| **Scale** | Desktop client, in-game interface, backend service, and standalone web client |
+| **Performance** | Local script execution with responsive client-state and backend-health handling |
+| **Security** | Clear separation between client, backend administration, and generated runtime data |
+| **Impact** | Provides one workspace for creating, installing, publishing, and managing Minecraft scripts |
+| **Repository** | [github.com/TaylorMadeDev/ShulkrClient](https://github.com/TaylorMadeDev/ShulkrClient) |
+
+The project combines an in-game UI shell with script management, an editor, templates, modules, settings, connected-client state, backend-published scripts, and administrative visibility. It demonstrates full-stack ownership across Java client development, scripting integration, service architecture, and web interface engineering.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Tower Climb — Unity Game Project</strong></summary>
+
+<br>
+
+Tower Climb is a Unity game-development project focused on building and organising a complete interactive experience through reusable scenes, gameplay assets, packages, and project-level configuration.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Unity, C#, Unity packages |
+| **Scale** | Standalone Unity game project |
+| **Performance** | Engine-native gameplay architecture and asset workflow |
+| **Security** | Repository configured to separate source assets from generated Unity data |
+| **Impact** | Demonstrates practical gameplay development and Unity project organisation |
+| **Repository** | [github.com/TaylorMadeDev/towerclimb](https://github.com/TaylorMadeDev/towerclimb) |
+
+The project represents hands-on game engineering with Unity and C#, including structured project assets, engine configuration, gameplay implementation, and iterative development inside a production game-engine workflow.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>ReactDnDBlock — Interactive React Component</strong></summary>
+
+<br>
+
+ReactDnDBlock is a React-based interface project exploring modular components and interactive drag-and-drop behaviour for modern web applications.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | React, JavaScript, HTML, CSS |
+| **Scale** | Reusable frontend component project |
+| **Performance** | Client-side interaction with immediate visual feedback |
+| **Security** | Browser-contained component behaviour with minimal external surface area |
+| **Impact** | Demonstrates reusable UI engineering and interaction-focused frontend development |
+| **Repository** | [github.com/TaylorMadeDev/ReactDnDBlock](https://github.com/TaylorMadeDev/ReactDnDBlock) |
+
+The project focuses on creating maintainable frontend behaviour through component composition, predictable state, and a responsive user interaction model.
+
+</details>
+
+---
+
+## Experience
+
+### Software Developer · Interact Software
+
+**Manchester, United Kingdom · Current**
+
+Contributing to professional software development in a product-focused environment, with an emphasis on delivering dependable features, maintaining application quality, and solving practical engineering problems.
+
+- Develop and maintain software features across the application lifecycle
+- Collaborate on product requirements, technical implementation, and iterative improvements
+- Diagnose issues and deliver maintainable fixes
+- Contribute to frontend, backend, and integration-focused engineering work
+- Balance technical quality with user requirements and business outcomes
+- Apply security awareness and structured problem-solving to development decisions
+
+![Software Development](https://img.shields.io/badge/Software_Development-6D28D9?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-4F46E5?style=flat-square)
+![Product Engineering](https://img.shields.io/badge/Product_Engineering-7C3AED?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4338CA?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-5B21B6?style=flat-square)
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| **Cyber Centurion Runner-Up** | Achieved runner-up placement in a competitive cybersecurity programme centred on practical system defence, security analysis, and team-based problem solving |
+| **GitHub Pull Shark** | Recognised by GitHub for meaningful pull-request collaboration |
+| **GitHub Quickdraw** | Recognised by GitHub for responsive issue and contribution activity |
+
+</div>
+
+---
+
+## Certifications & Education
+
+### Higher Education
+
+![Bachelor's Degree](https://img.shields.io/badge/Bachelor's_Degree-Game_Development-6D28D9?style=for-the-badge&logo=graduationcap&logoColor=white)
+
+### Technical Education
+
+![T Level](https://img.shields.io/badge/T_Level-Computer_Science-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white)
+
+### Cybersecurity
+
+![Cyber Centurion](https://img.shields.io/badge/Cyber_Centurion-Runner--Up-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-TaylorMadeDev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaylorMadeDev)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-6D28D9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TaylorMadeDev?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-TaylorDawson.Me-4F46E5?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TaylorDawson.Me)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TaylorMadeDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=7c3aed" alt="Taylor Dawson's GitHub statistics">
+<img width="49%" src="https://streak-stats.demolab.com?user=TaylorMadeDev&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Taylor Dawson's GitHub contribution streak">
+
+<br>
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorMadeDev&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Taylor Dawson's most-used languages">
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorMadeDev&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaylorMadeDev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Taylor%20Dawson's%20Contribution%20Activity)](https://github.com/TaylorMadeDev)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaylorMadeDev/TaylorMadeDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaylorMadeDev/TaylorMadeDev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/TaylorMadeDev/TaylorMadeDev/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Advanced game architecture
+  - Java and the Fabric ecosystem
+  - Scalable backend design
+  - Applied AI and intelligent game systems
+
+building:
+  - Shulkr Client
+  - Minecraft scripting tools
+  - Full-stack developer platforms
+  - Foundations for an independent game studio
+
+exploring:
+  - Procedural game systems
+  - AI-assisted development workflows
+  - Secure product architecture
+  - High-quality interactive experiences
+
+open_to:
+  - Game development opportunities
+  - Software engineering roles
+  - Open-source collaboration
+  - Indie game partnerships
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Contact](https://img.shields.io/badge/CONTACT-SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](https://TaylorDawson.Me/#contact)
+[![GitHub](https://img.shields.io/badge/GITHUB-TaylorMadeDev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaylorMadeDev)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-TaylorDawson.Me-4F46E5?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TaylorDawson.Me)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering is where ambitious ideas become reliable, meaningful experiences."*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8b5cf6,40:6d28d9,75:312e81,100:111827)
