@@ -1,5 +1,8 @@
-<div align="center">![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif)</div>
+<div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkYTFveHowOWpiMnZ3bDN1NnM5aTk2bzFqMjM4ODRqZmczd2xtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXpyBXHCQknTlLCscK/giphy.gif" alt="Taylor Dawson Banner" width="680">
+
+</div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+immersive+games+and+powerful+software;Full-stack+engineering+with+a+product+mindset;Turning+ambitious+ideas+into+real+systems;Working+towards+my+own+indie+game+studio)](https://git.io/typing-svg)
